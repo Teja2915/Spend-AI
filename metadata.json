@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Spend AI",
+  "description": "Full Stack web Application"
+}
